@@ -150,7 +150,7 @@ namespace zadanie_domowe
         }
     }
 
-    class Shop
+    class Shop : IThing
     {
         private string name;
         private Person[] people;
