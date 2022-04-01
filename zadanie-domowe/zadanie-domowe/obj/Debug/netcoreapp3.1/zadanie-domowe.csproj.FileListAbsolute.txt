@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.exe
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.deps.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.runtimeconfig.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\bin\Debug\netcoreapp3.1\zadanie-domowe.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.genruntimeconfig.cache
