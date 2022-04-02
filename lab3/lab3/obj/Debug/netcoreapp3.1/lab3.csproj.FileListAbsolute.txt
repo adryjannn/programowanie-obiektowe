@@ -1,0 +1,14 @@
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe-dobre\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\zadanie-domowe",
+    "\\zadanie-domowe\\zadanie-domowe"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\zadanie-domowe\\zadanie-domowe\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -12,3 +12,10 @@ C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadani
 C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.dll
 C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.pdb
 C:\Users\Adrian\source\repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.genruntimeconfig.cache
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.csproj.AssemblyReference.cache
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.AssemblyInfoInputs.cache
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.AssemblyInfo.cs
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.csproj.CoreCompileInputs.cache
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.dll
+D:\Users\Adrian.Bugaj\Source\Repos\programowanie-obiektowe-dobre\zadanie-domowe\zadanie-domowe\obj\Debug\netcoreapp3.1\zadanie-domowe.pdb
