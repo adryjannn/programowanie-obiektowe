@@ -1,0 +1,13 @@
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
