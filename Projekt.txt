@@ -1,0 +1,54 @@
+Projekt zaliczeniowy
+Temat projektu: System magazynowy
+
+
+Wizualnie: 
+
+1. Okno logowania
+	1. Pole: Login
+	2. Pole: Has³o
+	3. Przycisk: Zaloguj
+
+2. Menu
+	1. Przycisk: Dodaj produkt
+	2. Przycisk: Usuñ produkt
+	3. Przycisk: Zobacz produkty
+	4. Input: Wyszukaj po nazwie
+
+3. Okno dodaj produkt
+	1. Input: Nazwa
+	2. Input: Opis
+	3. Input: Iloœæ
+	4. Input: Kategoria
+	5. Przycisk: Dodaj
+
+4. Okno usuñ produkt
+	1. Input: Id produktu do usuniêcia
+	2. Przycisk: Usuñ
+
+5. Lista Produktów
+	1. Tabela z kolumnami:
+		1. ID,
+		2. Nazwa,
+		3. Iloœæ,
+		4. Kategoria
+		5. Przycisk: Edytuj produkt
+
+6. Edycja Produktu
+	1. Widok, jak przy dodawaniu produktu
+
+
+Technicznie: 
+
+1. Baza danych:
+	1. Tabela User
+	2. Tabela Product
+	3. Tabela Category
+
+2. ORM + operacje
+	1. Dodawanie rekordów
+	2. Modyfikacja rekordów
+	3. Usuwanie rekordów
+	4. Wyszukiwanie
+
+
