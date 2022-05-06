@@ -1,0 +1,13 @@
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.exe
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.deps.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.runtimeconfig.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\bin\Debug\netcoreapp3.1\lab__04.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\lab__04\lab__04\obj\Debug\netcoreapp3.1\lab__04.genruntimeconfig.cache
