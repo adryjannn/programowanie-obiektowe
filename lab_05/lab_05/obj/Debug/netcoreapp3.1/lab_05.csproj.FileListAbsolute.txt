@@ -1,0 +1,14 @@
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.exe
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.deps.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.runtimeconfig.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.runtimeconfig.dev.json
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.dll
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\bin\Debug\netcoreapp3.1\lab_05.pdb
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.csproj.AssemblyReference.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.AssemblyInfoInputs.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.AssemblyInfo.cs
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.csproj.CoreCompileInputs.cache
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.dll
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.pdb
+D:\Users\Adrian.Bugaj\source\repos\programowanie-obiektowe\lab_05\lab_05\obj\Debug\netcoreapp3.1\lab_05.genruntimeconfig.cache
